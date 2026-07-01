@@ -1,1 +1,2 @@
+https://www.figma.com/design/78PAtkbcIueRRbBwpFMaTM/Garbage-system?node-id=32-2&t=rjfLwhXTIWPFSDiX-1
 Waste management is an essential aspect of environmental sustainability and public health. As urban populations continue to grow, the generation of solid waste has increased significantly, creating challenges for local authorities and communities. Improper disposal of garbage contributes to environmental pollution, blocked drainage systems, flooding, unpleasant odors, and the spread of diseases.
